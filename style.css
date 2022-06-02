@@ -57,3 +57,8 @@ section article {
   text-align: center;
   display: flex;
 }
+
+#fotos {
+  align-content: flex-end;
+  float: left;
+}
