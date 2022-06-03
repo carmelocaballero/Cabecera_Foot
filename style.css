@@ -32,6 +32,17 @@ section article {
   padding: auto;
 }
 
+.social {
+  color: rgba(192, 55, 55, 1);
+  font-size: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: auto;
+  margin-top: 80px;
+  margin-left: 200px;
+  align-content: space-around;
+}
+
 .Caja3 {
   width: 1245px;
   height: 50px;
@@ -42,17 +53,6 @@ section article {
   margin: 0;
   text-align: center;
   font-size: 50px;
-}
-
-.social {
-  color: rgba(192, 55, 55, 1);
-  font-size: 100px;
-  display: flex;
-  flex-wrap: wrap;
-  padding: auto;
-  margin-top: 80px;
-  margin-left: 200px;
-  align-content: space-around;
 }
 
 .button {
@@ -92,10 +92,8 @@ section article {
 }
 
 .box img {
-  /* border-radius: 25px; */
   height: 150px;
   width: 200px;
-  /* padding: 5px; */
   margin: 10px;
 }
 
