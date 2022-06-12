@@ -63,11 +63,11 @@ section article {
   text-align: center;
 }
 
-.box input {
+/* .box input {
   position: relative;
-  width: 90px;
+  width: 900px;
   height: 50px;
-}
+} */
 
 .box {
   border-radius: 20px;
